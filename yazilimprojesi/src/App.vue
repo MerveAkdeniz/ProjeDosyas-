@@ -6,7 +6,6 @@
 
 <script>
 import Countries from './components/Countries.vue';
-
 export default {
   name: 'App',
   components: {
@@ -23,5 +22,6 @@ export default {
   text-align: center;
   color: #133e69;
   margin-top: 60px;
+  
 }
 </style>
